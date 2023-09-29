@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with some backend technologies
 - 💬 Ask me about anything
 - 📫 How to reach me: bonheurbalekoua@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Never seen a bug in real life!
